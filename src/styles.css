@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap");
+
+body {
+  background-color: #f3f4f6;
+}
+.App {
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
+}
+#head-second {
+  color: gray;
+}
+
+#text-area {
+  width: 80%;
+  margin-top: 1rem;
+  padding: 0.5rem;
+  font-size: 1.6rem;
+}
+
+#output-div {
+  margin-top: 2rem;
+  font-size: 1.7rem;
+  font-weight: 700;
+  padding: 0.5rem;
+}
+
+#list {
+  padding: 0.5rem;
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+  line-height: 2;
+}
+
+#list-inner {
+  font-size: 2rem;
+  padding: 0.8rem;
+  cursor: pointer;
+}
