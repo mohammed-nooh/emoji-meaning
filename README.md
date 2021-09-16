@@ -1,2 +1,2 @@
 # emoji-meaning
-Created with CodeSandbox
+A web app to find meaning of different kinds of animal emojies.
