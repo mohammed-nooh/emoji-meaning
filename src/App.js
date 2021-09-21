@@ -10,7 +10,14 @@ var emojiDictionary = {
   "🐺": "Wolf",
   "🦊": "Fox",
   "🐱": "Cat Face",
-  "😹": "Cat with Tears of Joy"
+  "😹": "Cat with Tears of Joy",
+  "🐷": "Pig Face",
+  "🐄": "Cow",
+  "🐹": "Hamster",
+  "🐰": "Rabbit Face",
+  "🐭": "Mouse Face",
+  "🦇": "Bat",
+  "🐔": "Chicken"
 };
 
 export default function App() {
